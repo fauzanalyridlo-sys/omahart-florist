@@ -18,8 +18,7 @@ Website UMKM florist dan souvenir berbasis Laravel untuk membantu digitalisasi u
 * PHP
 * MySQL
 * TailwindCSS
-* AlpineJS
-* SwiperJS
+* JavaScript
 * Vite
 
 ## My Role
